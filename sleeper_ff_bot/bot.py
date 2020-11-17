@@ -292,11 +292,7 @@ def get_welcome_string():
     Creates and returns the welcome message
     :return: String welcome message
     """
-    welcome_message = "👋 Hello, I am Sleeper Bot! \n\nThe bot schedule for the {} ff season can be found here: ".format(
-        STARTING_YEAR)
-    #welcome_message += "https://github.com/SwapnikKatkoori/sleeper-ff-bot#current-schedule \n\n"
-    #welcome_message += "Any feature requests, contributions, or issues for the bot can be added here: " \
-    #                 "https://github.com/SwapnikKatkoori/sleeper-ff-bot \n\n"
+    welcome_message = "👋 Hello, I am ADHD League Bot! \n\n I'm still in dev mode, new features on the way."
 
     return welcome_message
 
